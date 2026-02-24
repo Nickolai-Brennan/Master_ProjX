@@ -61,4 +61,4 @@
 
 ---
 
-Let me know if you'd like a **blank template** version of this next!
+Let me know if you'd like a **blank template** version of this next.
