@@ -1,4 +1,4 @@
-# 🚀 ADHD-Aligned Project Supervisor – KBD-First System
+# ADHD-Aligned Project Supervisor
 
 Welcome to a project built under the **ADHD-Aligned Tech Supervisor Framework** – where clarity, simplicity, and meaningful execution come first. This system is designed for builders, creatives, analysts, and ADHD-brained innovators who need structure **without suffocation**, and flexibility **without chaos**.
 
